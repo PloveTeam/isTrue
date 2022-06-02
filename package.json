@@ -1,0 +1,30 @@
+{
+  "name": "@ploveteam/istrue",
+  "version": "1.1.1",
+  "description": "return true or false",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PloveTeam/isTrue.git"
+  },
+  "keywords": [
+    "True",
+    "true",
+    "ES6",
+    "isTrue",
+    "isTrueCheck",
+    "True check"
+  ],
+  "engines": {
+		"node": ">= 0.4"
+	},
+  "author": "PloveTeam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PloveTeam/isTrue/issues"
+  },
+  "homepage": "https://github.com/PloveTeam/isTrue#readme"
+}
