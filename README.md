@@ -9,11 +9,13 @@
 
 ## Example
 
-```js
-var isTrue = require('@ploveteam/isTrue');
+```ts
+import { isTrue } from '@ploveteam/isTrue';
+
 console.log(isTrue(1));
 console.log(isTrue(0));
 console.log(isTrue(1 === 1));
+
 ```
 
 <!-- ## Tests
